@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title> Olá CSS</title>
+    <meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+    <body>
+        <h1> Olá CSS</h1>
+        <h2 style="background:green"> Olá h2 </h2>
+        <p> Um parágrafo com um <span> Elemento Span</span></p>
+    </body>
+</html>
